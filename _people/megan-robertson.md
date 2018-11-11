@@ -8,6 +8,5 @@ sub_heading: Website Designer, Coder, Pixel-whisperer
 thumbnail: ''
 email: megashlaw@gmail.com
 linkedin: ''
-published: false
 
 ---
