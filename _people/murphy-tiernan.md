@@ -1,5 +1,5 @@
 ---
-title: Adamo Adamo
+title: Adam Martin
 date: 2017-11-14 10:47:11 +0000
 role:
 - advisor
@@ -11,5 +11,4 @@ linkedin: ''
 layout: person
 
 ---
-
-Nulla vitae elit libero, a pharetra augue. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+One guy that takes himself and the life of OTHERS WAY TOO SERIOUSLY. Look out as here he comes now...
